@@ -1,0 +1,30 @@
+{
+    "creators": [
+        {
+            "name": "Auclair, Pierre",
+            "orcid": "0000-0002-4814-1406",
+            "affiliation": "UCLouvain and FNRS",
+            "type": "ProjectLeader"
+        }
+    ],
+    "title": "FOREST: FOtran Recursive Exploration of Stochastic Trees",
+    "version": "1.0",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "https://doi.org/10.48550/arXiv.2501.05371",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
+    ],
+    "keywords": [
+        "cosmic inflation",
+        "stochastic inflation",
+        "cosmology",
+        "stochastic trees",
+        "primordial black holes",
+        "PBH"
+    ],
+    "upload_type": "software",
+    "language": "eng"
+}
